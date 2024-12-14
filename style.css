@@ -1,0 +1,72 @@
+.body{
+    font-family: "Open Sans", serif;
+}
+.banner-container{
+    top: 0;
+    background-color: #7330F9;
+    position: sticky;
+    z-index: 2;
+}
+.banner-culumn{
+    background-color: #222046;
+}
+.custom-nevber{
+    background-color: rgb(121, 71, 71);
+}
+.about-container{
+    background-color: #006972;
+   
+}
+.education-container{
+    background-color: #935b5b;
+}
+.education-color{
+    color: #b8b0c6;
+}
+.circle-edu{
+    background-color:  #923f3f;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.project-container{
+    background-color: aqua;
+}
+
+.portfolio-container{
+    background-color: #7480dc;
+}
+
+.contact-container{
+    background-color: #77b513;
+}
+.inner-form{
+    background-color: rgb(48, 77, 103);
+}
+.inner-form:hover{
+    color: black!important;
+}
+.footer{
+    background-color: #222046;
+}
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: rgb(16, 6, 6);
+    font-size: 40px;
+    text-align: center;
+}
+.circle:hover{
+   
+    background-color: rgb(243, 236, 236);
+    
+}
+.gallery-container{
+    background-color: #b8b0c6;
+}
+.custom-footer-container{
+    background-color: #222046;
+}
